@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78803fe6792eee1eb63fa6fa96e9c15f31a9b277">
+        <dex dex="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6c7b4f45795cee12beeca99c132143ef4adfe450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_d47c036b81f29c187d3a44ce0e80931f2861d446\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_9bcc548ed193ab8a647d2b7fc20c1710b18fd4a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_267c0b93885115345c822756dff59ac27ffed1d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_f87c2fd209fffe657de5929f024cf8309ec79b51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_32c7d112bab722444cdd6b32ccd1eb7041137da1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_8c111f1cece606e919cdd7e947143425fe46d32c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_25b182f178f02993213446cfc585929fbaf02fd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0a9fc88b7ed7871730dacca59e9b3d601811c96">
+        <dex dex="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a1135e045b90b01527646999be120f2bea31020b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_195d8448d4da537a162909ed6dcd365b79a557c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kynara Fernandes\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_d092974ff4cc4e604938e94c9840628691e46273\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Kynara Fernandes\AndroidStudioProjects\EncryptionApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_bf506d673ddbd54ba7bbe35928d1c4935e386f0d\classes.dex" />
+    </item>
+
+</items>

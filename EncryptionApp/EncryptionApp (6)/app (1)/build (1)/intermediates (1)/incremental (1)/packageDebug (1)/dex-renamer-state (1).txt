@@ -1,0 +1,7 @@
+#Sun Feb 26 00:29:49 CST 2017
+base.0=C\:\\Users\\Kynara Fernandes\\AndroidStudioProjects\\EncryptionApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a1135e045b90b01527646999be120f2bea31020b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Kynara Fernandes\\AndroidStudioProjects\\EncryptionApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6c7b4f45795cee12beeca99c132143ef4adfe450\\classes.dex
+base.1=C\:\\Users\\Kynara Fernandes\\AndroidStudioProjects\\EncryptionApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6c7b4f45795cee12beeca99c132143ef4adfe450
+file.0=C\:\\Users\\Kynara Fernandes\\AndroidStudioProjects\\EncryptionApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a1135e045b90b01527646999be120f2bea31020b\\classes.dex

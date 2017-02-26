@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kynarafernandes.encryptionapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".level2" />
+        <activity android:name=".level3" />
+        <activity android:name=".level4" />
+        <activity android:name=".level1" />
+        <activity android:name=".start" />
+        <activity android:name=".Developers" />
+        <activity android:name=".Task1" />
+        <activity android:name=".Task2" />
+        <activity android:name=".code1" />
+        <activity android:name=".Levels" />
+        <activity android:name=".code2" />
+        <activity android:name=".code3" />
+        <activity android:name=".code4" />
+        <activity android:name=".code5" />
+        <activity android:name=".end"></activity>
+    </application>
+
+</manifest>
